@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 # Machine Learning for Pharmacy Inventory Management
 
@@ -293,4 +293,4 @@ This project demonstrates that machine learning can support pharmacy inventory d
 
 <div align="center">
   <sub>Built with Python and scikit-learn &bull; Synthetic data generated for research purposes</sub>
-</div>
+</div>](https://drive.google.com/file/d/1LPu3pg6arXND0Mgm4SjKTA7hPSxKPAcx/view?usp=sharing)
