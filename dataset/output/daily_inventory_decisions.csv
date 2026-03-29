@@ -1,0 +1,31 @@
+product_id,product_name,category,ending_stock,avg_sales_7d,lead_time_days,predicted_risk,predicted_order_qty,recommended_action
+P014,Omeprazole 20mg Capsule,gastrointestinal,48,11.43,4,balanced,9.462801650018116,No immediate action needed
+P021,Atorvastatin 20mg Tablet,lipid-lowering agents,66,10.29,6,balanced,6.021638660457192,No immediate action needed
+P024,Vitamin D3 1000IU Softgel,vitamins and supplements,35,4.86,6,balanced,1.732070179812715e-05,No immediate action needed
+P023,Vitamin C 500mg Tablet,vitamins and supplements,112,29.86,3,balanced,7.311568327309459,No immediate action needed
+P022,Multivitamins Capsule,vitamins and supplements,74,11.86,5,balanced,0.00021369073310404738,No immediate action needed
+P030,Levothyroxine 50mcg Tablet,endocrine,53,2.86,7,overstock,1.332070179812688e-05,Do NOT order (reduce stock / monitor expiry)
+P012,Salbutamol Syrup 2mg/5mL,respiratory,82,11.0,4,overstock,1.332070179812688e-05,Do NOT order (reduce stock / monitor expiry)
+P010,Cetirizine 10mg Tablet,antihistamines,71,15.29,2,overstock,0.0,Do NOT order (reduce stock / monitor expiry)
+P009,Mefenamic Acid 500mg Capsule,analgesics and anti-inflammatory,90,12.86,3,overstock,0.0004237573507117705,Do NOT order (reduce stock / monitor expiry)
+P007,Paracetamol 500mg Tablet,analgesics and antipyretics,158,42.14,2,overstock,0.0,Do NOT order (reduce stock / monitor expiry)
+P006,Acyclovir 400mg Tablet,antivirals,55,3.0,6,overstock,1.332070179812688e-05,Do NOT order (reduce stock / monitor expiry)
+P005,Oseltamivir 75mg Capsule,antivirals,25,6.29,2,overstock,0.07969965159023974,Do NOT order (reduce stock / monitor expiry)
+P027,Calcium Carbonate 500mg Tablet,vitamins and supplements,83,4.29,6,overstock,1.332070179812688e-05,Do NOT order (reduce stock / monitor expiry)
+P018,Insulin Glargine 100IU/mL,antidiabetics,19,2.14,2,overstock,0.005518599055893632,Do NOT order (reduce stock / monitor expiry)
+P025,Ferrous Sulfate 325mg Tablet,vitamins and supplements,12,6.0,5,understock,24.091324174368992,Order 24 units
+P026,Zinc Sulfate 20mg Tablet,vitamins and supplements,27,8.71,4,understock,17.106891068132242,Order 17 units
+P020,Amlodipine 5mg Tablet,antihypertensives,67,17.14,5,understock,35.06102060150091,Order 35 units
+P019,Losartan 50mg Tablet,antihypertensives,11,13.71,5,understock,71.15879383930735,Order 71 units
+P015,Oral Rehydration Salts Sachet,gastrointestinal,21,9.43,3,understock,16.814965817789368,Order 17 units
+P016,Metformin 500mg Tablet,antidiabetics,8,16.43,5,understock,91.43893219337485,Order 91 units
+P013,Montelukast 10mg Tablet,respiratory,21,6.71,5,understock,19.516524505551956,Order 20 units
+P011,Loratadine 10mg Tablet,antihistamines,0,14.29,3,understock,56.5889529593127,Order 57 units
+P008,Ibuprofen 200mg Tablet,analgesics and anti-inflammatory,56,23.29,3,understock,39.424199976749605,Order 39 units
+P004,Co-Amoxiclav 625mg Tablet,antibiotics,24,9.71,5,understock,34.64999956739438,Order 35 units
+P003,Cefalexin 500mg Capsule,antibiotics,29,9.29,4,understock,18.097392718058924,Order 18 units
+P002,Azithromycin 500mg Tablet,antibiotics,40,13.14,4,understock,25.572447237718865,Order 26 units
+P001,Amoxicillin 500mg Capsule,antibiotics,51,18.86,3,understock,24.808612415123417,Order 25 units
+P028,Dextromethorphan Syrup,cough and cold,9,8.86,3,understock,26.690422052595846,Order 27 units
+P017,Glimepiride 2mg Tablet,antidiabetics,22,6.86,5,understock,19.156197960744816,Order 19 units
+P029,Phenylephrine + Chlorphenamine Tablet,cough and cold,13,7.14,3,understock,16.220993202993306,Order 16 units

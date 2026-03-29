@@ -1,0 +1,31 @@
+product_id,product_name,category,base_daily_demand,typical_lead_time_days,shelf_life_days,demand_profile,seasonality_pattern
+P001,Amoxicillin 500mg Capsule,antibiotics,18,3,730,high_demand_low_stock,flu
+P002,Azithromycin 500mg Tablet,antibiotics,10,4,730,balanced,flu
+P003,Cefalexin 500mg Capsule,antibiotics,8,4,730,balanced,flu
+P004,Co-Amoxiclav 625mg Tablet,antibiotics,9,5,730,balanced,flu
+P005,Oseltamivir 75mg Capsule,antivirals,6,2,540,balanced,flu
+P006,Acyclovir 400mg Tablet,antivirals,3,6,730,high_stock_low_demand,stable
+P007,Paracetamol 500mg Tablet,analgesics and antipyretics,42,2,1095,high_demand_low_stock,flu
+P008,Ibuprofen 200mg Tablet,analgesics and anti-inflammatory,26,3,1095,balanced,stable
+P009,Mefenamic Acid 500mg Capsule,analgesics and anti-inflammatory,14,3,730,balanced,monthly
+P010,Cetirizine 10mg Tablet,antihistamines,20,2,730,high_demand_low_stock,allergy
+P011,Loratadine 10mg Tablet,antihistamines,15,3,730,balanced,allergy
+P012,Salbutamol Syrup 2mg/5mL,respiratory,11,4,540,balanced,flu
+P013,Montelukast 10mg Tablet,respiratory,7,5,730,balanced,allergy
+P014,Omeprazole 20mg Capsule,gastrointestinal,12,4,730,balanced,stable
+P015,Oral Rehydration Salts Sachet,gastrointestinal,9,3,1095,balanced,summer
+P016,Metformin 500mg Tablet,antidiabetics,16,5,1095,balanced,stable
+P017,Glimepiride 2mg Tablet,antidiabetics,7,5,1095,balanced,stable
+P018,Insulin Glargine 100IU/mL,antidiabetics,4,2,365,balanced,stable
+P019,Losartan 50mg Tablet,antihypertensives,15,5,1095,balanced,stable
+P020,Amlodipine 5mg Tablet,antihypertensives,18,5,1095,balanced,stable
+P021,Atorvastatin 20mg Tablet,lipid-lowering agents,11,6,1095,balanced,stable
+P022,Multivitamins Capsule,vitamins and supplements,13,5,730,balanced,school
+P023,Vitamin C 500mg Tablet,vitamins and supplements,28,3,730,high_demand_low_stock,flu
+P024,Vitamin D3 1000IU Softgel,vitamins and supplements,5,6,1095,high_stock_low_demand,stable
+P025,Ferrous Sulfate 325mg Tablet,vitamins and supplements,6,5,730,balanced,stable
+P026,Zinc Sulfate 20mg Tablet,vitamins and supplements,8,4,730,balanced,flu
+P027,Calcium Carbonate 500mg Tablet,vitamins and supplements,4,6,1095,high_stock_low_demand,stable
+P028,Dextromethorphan Syrup,cough and cold,9,3,540,balanced,flu
+P029,Phenylephrine + Chlorphenamine Tablet,cough and cold,7,3,540,balanced,flu
+P030,Levothyroxine 50mcg Tablet,endocrine,3,7,1095,high_stock_low_demand,stable
