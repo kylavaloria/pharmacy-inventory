@@ -87,30 +87,12 @@ The study simulates pharmacy inventory behavior across products, demand, lead ti
 ## Architecture
 ```mermaid
 flowchart TD
-    A([Telegram Trigger]) --> B[Normalize message fields]
-    B --> C{Command}
-
-    C -->|help| D[Send prompt guide]
-
-    C -->|balance| E[Fetch Payments rows]
-    E --> F[Aggregate balances]
-    F --> G[Send balance message]
-
-    C -->|current| H[Fetch Transactions rows]
-    H --> I[Filter to target day]
-    I --> J[Aggregate daily totals]
-    J --> K[Send daily summary]
-
-    C -->|summary| L[Fetch Transactions rows]
-    L --> M[Filter to month]
-    M --> N[Aggregate totals]
-    N --> O[Send summary]
-
-    C -->|transaction| P{Has photo}
-    P -->|yes| Q[Get image]
-    Q --> R[OCR space]
-    R --> S[Raw input text]
-    P -->|no| S
+    A[Synthetic Data Creation] --> B[Feature Engineering]
+    B --> C[Exploratory Data Analysis]
+    C --> D[Feature Selection]
+    D --> E[Classification Model Training]
+    E --> F[Regression Model Training]
+    F --> G[Inferencing / Decision Support]
 ```
 
 ---
